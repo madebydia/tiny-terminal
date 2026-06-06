@@ -4,7 +4,7 @@ A fake terminal where kids can type anything and get fun, safe responses. Single
 
 Live: [tiny-terminal.com](https://tiny-terminal.com)
 
-Built by [@meimakes](https://x.com/meimakes)
+Built by [@madebydia](https://x.com/madebydia)
 
 
 <img width="946" height="519" alt="image" src="https://github.com/user-attachments/assets/a957eac1-a42c-44b5-96a0-21b5253b4b34" />
